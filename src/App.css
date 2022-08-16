@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+body{
+  margin:0;
+  padding: 0;
+  background :#060c21;
+  font-family:'Popins',sans-serif;
+display: flex;
+}
